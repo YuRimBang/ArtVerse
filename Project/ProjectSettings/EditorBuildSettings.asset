@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyAssets/Scenes/Main_Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/MyAssets/Scenes/StartUI_Scene.unity
+    guid: 4ad80fa27be7be148ba4263898e7b8e2
+  - enabled: 0
+    path: Assets/MyAssets/Scenes/PaletteUI_Scene.unity
+    guid: 40dd2a794988c1b4cb133efd964bc274
+  - enabled: 1
+    path: Assets/MyAssets/Scenes/AI_Scene_House.unity
+    guid: cc7464204c2b78041ae266a7d01a6751
+  - enabled: 1
+    path: Assets/MyAssets/Scenes/AI_Scene_Tree.unity
+    guid: 47cecd11d8c5b114da7df2e7bacd6b1a
+  - enabled: 1
+    path: Assets/MyAssets/Scenes/AI_Scene_Man.unity
+    guid: 08c43b734b5c70c438690da65a0fab2a
+  - enabled: 1
+    path: Assets/MyAssets/Scenes/AI_Scene_Woman.unity
+    guid: 0b61e9a118b311d40bfe09043ea19e76
+  - enabled: 1
+    path: Assets/MyAssets/Scenes/ArtExhibition_Scene.unity
+    guid: a4dc34bc762471e4b976b27ea20d97d0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: af8196b519454a644844c44987855a10, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: af76923ffff69c24e914ad6bbc2019d2, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6e8d82f2057d81649888ac8f0e9605e7, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 15a64e2d13d89ee4bbad05910d5518ec, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 9f9ff415070a31b4fb8cc048c4609ed2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d060c02e2e04fcc4c9ca4863741c2cfe, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 10a7fdaa9ce68ea45acc4568a9272afc, type: 2}
