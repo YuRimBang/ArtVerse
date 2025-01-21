@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d6f16c7757924274abb08dd27e303643
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pencilMat: {instanceID: 0}
+  - crayonMat: {instanceID: 0}
+  - sprayMat: {instanceID: 0}
+  - brushMat: {instanceID: 0}
+  - clickPencilSprite: {fileID: 21300000, guid: a4a7f935cbdd96e4cb28280ee70ecbfe, type: 3}
+  - clickCrayonSprite: {fileID: 21300000, guid: 9f855263708761d468ad55da2f2f4b3c, type: 3}
+  - clickSpraySprite: {fileID: 21300000, guid: 388b578c400d57448ba7470373b839bc, type: 3}
+  - clickBrushSprite: {fileID: 21300000, guid: 33f251f283726054983f9acaf57d66ef, type: 3}
+  - pencilSprite: {fileID: 21300000, guid: fe05865cc6b9fb94796799310da54405, type: 3}
+  - crayonSprite: {fileID: 21300000, guid: 3f74bbdb398bde64e85ee04f197fc258, type: 3}
+  - spraySprite: {fileID: 21300000, guid: 70383cf219dd4a444a85d6428685e67e, type: 3}
+  - brushSprite: {fileID: 21300000, guid: 74dab68166849274e8eb0aeb3a43f5e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
