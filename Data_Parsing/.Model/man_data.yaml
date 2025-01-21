@@ -1,0 +1,6 @@
+train: C:/Users/LEMON AB/Desktop/ArtVerse/Project/Data_Parsing/Man_yolo_file
+val: C:/Users/LEMON AB/Desktop/ArtVerse/Project/Data_Parsing/Man_VS_yolo_file
+test: []
+ 
+nc: 18
+names: ['귀', '남자구두', '눈', '다리', '단추', '머리', '머리카락', '목', '발', '사람전체', '상체', '손', '얼굴', '운동화', '입', '주머니', '코', '팔']

@@ -1,0 +1,6 @@
+train: C:/Users/LEMON AB/Desktop/ArtVerse/Project/Data_Parsing/Tree_yolo_file
+val: C:/Users/LEMON AB/Desktop/ArtVerse/Project/Data_Parsing/Tree_VS_yolo_file
+test: []
+ 
+nc: 14
+names: ['가지', '구름', '그네', '기둥', '꽃', '나무전체', '나뭇잎', '다람쥐', '달', '별', '뿌리', '새', '수관', '열매']

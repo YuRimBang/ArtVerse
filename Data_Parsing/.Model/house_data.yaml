@@ -1,0 +1,6 @@
+train: C:/Users/LEMON AB/Desktop/ArtVerse/Project/Data_Parsing/House_yolo_file/
+val: C:/Users/LEMON AB/Desktop/ArtVerse/Project/Data_Parsing/House_VS_yolo_file/
+test: []
+ 
+nc: 15
+names: ['굴뚝', '길', '꽃', '나무', '문', '산', '연기', '연못', '울타리', '잔디', '지붕', '집벽', '집전체', '창문', '태양']
